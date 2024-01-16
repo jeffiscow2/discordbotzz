@@ -16,5 +16,7 @@ venv.bak/
 .dockerfile
 Dockerfile
 .dockerignore
-.json
+token.json
+credentials.json
+
 
