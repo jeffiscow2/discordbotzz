@@ -18,5 +18,6 @@ Dockerfile
 .dockerignore
 token.json
 credentials.json
+settings.json
 
 
